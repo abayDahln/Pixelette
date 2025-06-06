@@ -1,4 +1,4 @@
-#Pixelette - C# WinForms Desktop Application
+#Pixelette# - C# WinForms Desktop Application
 
 **Pixelette** is a lightweight and modern Windows desktop application built using **C# and WinForms**, designed to extract color palettes from images, pick color from screen, etc. It helps designers, developers, and color enthusiasts analyze and pick dominant colors from any uploaded image.
 
